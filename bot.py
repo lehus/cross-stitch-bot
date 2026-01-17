@@ -4,9 +4,9 @@
 #   uvicorn bot:app --host 0.0.0.0 --port $PORT
 #
 # Env vars:
-TELEGRAM_BOT_TOKEN=7750970184:AAGJyUd5fAweywY23rpdShcTyX4QGI4g0ek
+#TELEGRAM_BOT_TOKEN=7750970184:AAGJyUd5fAweywY23rpdShcTyX4QGI4g0ek
 # Optional:
-DMC_CSV_PATH=dmc_colors_100.csv
+#DMC_CSV_PATH=dmc_colors_100.csv
 
 import os
 import re
